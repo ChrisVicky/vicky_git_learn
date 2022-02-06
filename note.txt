@@ -1,0 +1,3 @@
+建立新文件readme.txt指令 touch readme.txt
+把1重命名为note.txt指令 mv readme.txt note.txt
+删除note.txt文件指令 rm note.txt
